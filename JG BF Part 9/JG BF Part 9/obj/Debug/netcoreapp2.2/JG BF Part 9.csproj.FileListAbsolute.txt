@@ -1,0 +1,8 @@
+C:\Users\JohnG\Desktop\JG BF Part 9\JG BF Part 9\bin\Debug\netcoreapp2.2\JG BF Part 9.deps.json
+C:\Users\JohnG\Desktop\JG BF Part 9\JG BF Part 9\bin\Debug\netcoreapp2.2\JG BF Part 9.runtimeconfig.json
+C:\Users\JohnG\Desktop\JG BF Part 9\JG BF Part 9\bin\Debug\netcoreapp2.2\JG BF Part 9.runtimeconfig.dev.json
+C:\Users\JohnG\Desktop\JG BF Part 9\JG BF Part 9\bin\Debug\netcoreapp2.2\JG BF Part 9.dll
+C:\Users\JohnG\Desktop\JG BF Part 9\JG BF Part 9\obj\Debug\netcoreapp2.2\JG BF Part 9.csproj.CoreCompileInputs.cache
+C:\Users\JohnG\Desktop\JG BF Part 9\JG BF Part 9\obj\Debug\netcoreapp2.2\JG BF Part 9.AssemblyInfoInputs.cache
+C:\Users\JohnG\Desktop\JG BF Part 9\JG BF Part 9\obj\Debug\netcoreapp2.2\JG BF Part 9.AssemblyInfo.cs
+C:\Users\JohnG\Desktop\JG BF Part 9\JG BF Part 9\obj\Debug\netcoreapp2.2\JG BF Part 9.csprojAssemblyReference.cache
