@@ -32,3 +32,37 @@ C:\Users\JohnG\OneDrive\Desktop\gitRepo\GulfShoreGraphics\GulfShoreGraphics\obj\
 C:\Users\JohnG\OneDrive\Desktop\gitRepo\GulfShoreGraphics\GulfShoreGraphics\obj\Debug\netcoreapp2.2\GulfShoreGraphics.dll
 C:\Users\JohnG\OneDrive\Desktop\gitRepo\GulfShoreGraphics\GulfShoreGraphics\obj\Debug\netcoreapp2.2\GulfShoreGraphics.pdb
 C:\Users\JohnG\OneDrive\Desktop\gitRepo\GulfShoreGraphics\GulfShoreGraphics\obj\Debug\netcoreapp2.2\GulfShoreGraphics.csproj.CopyComplete
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\bin\Debug\netcoreapp2.2\GulfShoreGraphics.deps.json
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\bin\Debug\netcoreapp2.2\GulfShoreGraphics.runtimeconfig.json
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\bin\Debug\netcoreapp2.2\GulfShoreGraphics.runtimeconfig.dev.json
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\bin\Debug\netcoreapp2.2\GulfShoreGraphics.dll
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\bin\Debug\netcoreapp2.2\GulfShoreGraphics.pdb
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\bin\Debug\netcoreapp2.2\GulfShoreGraphics.Views.dll
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\bin\Debug\netcoreapp2.2\GulfShoreGraphics.Views.pdb
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\GulfShoreGraphics.csprojAssemblyReference.cache
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\GulfShoreGraphics.RazorAssemblyInfo.cache
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\GulfShoreGraphics.RazorAssemblyInfo.cs
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\GulfShoreGraphics.AssemblyInfoInputs.cache
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\GulfShoreGraphics.AssemblyInfo.cs
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\GulfShoreGraphics.TagHelpers.input.cache
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\GulfShoreGraphics.TagHelpers.output.cache
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\GulfShoreGraphics.RazorCoreGenerate.cache
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\GulfShoreGraphics.RazorTargetAssemblyInfo.cache
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\GulfShoreGraphics.RazorTargetAssemblyInfo.cs
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\GulfShoreGraphics.Views.pdb
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\GulfShoreGraphics.dll
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\GulfShoreGraphics.pdb
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\GulfShoreGraphics.csproj.CopyComplete

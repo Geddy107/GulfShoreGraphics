@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JohnG\\OneDrive\\Desktop\\gitRepo\\GulfShoreGraphics\\GulfShoreGraphics\\GulfShoreGraphics.csproj": {}
+    "C:\\Users\\JohnG\\OneDrive\\Desktop\\gitRepo\\2019 Black Fin Vinyl\\GulfShoreGraphicsWorking\\GulfShoreGraphics\\GulfShoreGraphics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JohnG\\OneDrive\\Desktop\\gitRepo\\GulfShoreGraphics\\GulfShoreGraphics\\GulfShoreGraphics.csproj": {
+    "C:\\Users\\JohnG\\OneDrive\\Desktop\\gitRepo\\2019 Black Fin Vinyl\\GulfShoreGraphicsWorking\\GulfShoreGraphics\\GulfShoreGraphics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JohnG\\OneDrive\\Desktop\\gitRepo\\GulfShoreGraphics\\GulfShoreGraphics\\GulfShoreGraphics.csproj",
+        "projectUniqueName": "C:\\Users\\JohnG\\OneDrive\\Desktop\\gitRepo\\2019 Black Fin Vinyl\\GulfShoreGraphicsWorking\\GulfShoreGraphics\\GulfShoreGraphics.csproj",
         "projectName": "GulfShoreGraphics",
-        "projectPath": "C:\\Users\\JohnG\\OneDrive\\Desktop\\gitRepo\\GulfShoreGraphics\\GulfShoreGraphics\\GulfShoreGraphics.csproj",
+        "projectPath": "C:\\Users\\JohnG\\OneDrive\\Desktop\\gitRepo\\2019 Black Fin Vinyl\\GulfShoreGraphicsWorking\\GulfShoreGraphics\\GulfShoreGraphics.csproj",
         "packagesPath": "C:\\Users\\JohnG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JohnG\\OneDrive\\Desktop\\gitRepo\\GulfShoreGraphics\\GulfShoreGraphics\\obj\\",
+        "outputPath": "C:\\Users\\JohnG\\OneDrive\\Desktop\\gitRepo\\2019 Black Fin Vinyl\\GulfShoreGraphicsWorking\\GulfShoreGraphics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
