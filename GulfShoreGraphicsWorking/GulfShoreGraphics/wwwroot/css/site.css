@@ -13,18 +13,17 @@ a.navbar-brand {
 /* Sticky footer styles
 -------------------------------------------------- */
 .div-right {
-    position: absolute;
-    right: 0px;
+    position: fixed;
+    right: 100px;
 
 }
 .fa {
     padding: 15px;
-    font-size: 20px;
+    font-size: 30px;
     width: 15px
     text-align: center;
     text-decoration: none;
     margin: 5px 2px;
-    border-radius: 50%;
 }
 
     .fa:hover {
