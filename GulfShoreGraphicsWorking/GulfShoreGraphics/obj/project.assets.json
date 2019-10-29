@@ -12077,23 +12077,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\JohnG\\.nuget\\packages\\": {},
+    "C:\\Users\\Jack\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JohnG\\OneDrive\\Desktop\\gitRepo\\2019 Black Fin Vinyl\\GulfShoreGraphicsWorking\\GulfShoreGraphics\\GulfShoreGraphics.csproj",
+      "projectUniqueName": "C:\\Users\\Jack\\OneDrive\\Desktop\\gitRepo\\2019 Black Fin Vinyl\\GulfShoreGraphicsWorking\\GulfShoreGraphics\\GulfShoreGraphics.csproj",
       "projectName": "GulfShoreGraphics",
-      "projectPath": "C:\\Users\\JohnG\\OneDrive\\Desktop\\gitRepo\\2019 Black Fin Vinyl\\GulfShoreGraphicsWorking\\GulfShoreGraphics\\GulfShoreGraphics.csproj",
-      "packagesPath": "C:\\Users\\JohnG\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JohnG\\OneDrive\\Desktop\\gitRepo\\2019 Black Fin Vinyl\\GulfShoreGraphicsWorking\\GulfShoreGraphics\\obj\\",
+      "projectPath": "C:\\Users\\Jack\\OneDrive\\Desktop\\gitRepo\\2019 Black Fin Vinyl\\GulfShoreGraphicsWorking\\GulfShoreGraphics\\GulfShoreGraphics.csproj",
+      "packagesPath": "C:\\Users\\Jack\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jack\\OneDrive\\Desktop\\gitRepo\\2019 Black Fin Vinyl\\GulfShoreGraphicsWorking\\GulfShoreGraphics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\JohnG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jack\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -2,25 +2,27 @@
 for details on configuring this project to bundle and minify static web assets. */
 
 a.navbar-brand {
-  white-space: normal;
-  text-align: center;
-  word-break: break-all;
-
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
 }
 
-
+.background {
+    background-image: url('https://image.shutterstock.com/z/stock-photo-car-wrapping-specialist-putting-vinyl-foil-or-film-on-car-selective-focus-743188939.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
 
 /* Sticky footer styles
 -------------------------------------------------- */
-.div-right {
-    position: fixed;
-    right: 100px;
+.home-video {
+    margin-right:auto;
 
 }
 .fa {
-    padding: 15px;
-    font-size: 30px;
-    width: 15px
+    padding: 10px;
+    font-size: 20px;
+    width: 30px;
     text-align: center;
     text-decoration: none;
     margin: 5px 2px;
@@ -34,54 +36,54 @@ a.navbar-brand {
     background: #3B5998;
     color: white;
     position: absolute;
-    right: 0px;
+    right: 200px;
 }
 
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
+
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-    
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 .border-top {
-  border-top: 1px solid #e5e5e5;
+    border-top: 1px solid #000000;
 }
+
 .border-bottom {
-  border-bottom: 1px solid #e5e5e5;
+    border-bottom: 1px solid #000000;
 }
 
 .box-shadow {
-  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
 }
 
 button.accept-policy {
-  font-size: 1rem;
-  line-height: inherit;
+    font-size: 1rem;
+    line-height: inherit;
 }
 
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  /* Margin bottom by footer height */
-  margin-bottom: 60px;
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
 }
+
 .footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  white-space: nowrap;
-  /* Set the fixed height of the footer here */
-  height: 60px;
-  line-height: 60px; /* Vertically center the text there */
-
-
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    line-height: 60px; /* Vertically center the text there */
 }
