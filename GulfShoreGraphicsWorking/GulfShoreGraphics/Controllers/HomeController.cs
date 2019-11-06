@@ -15,7 +15,24 @@ namespace GulfShoreGraphics.Controllers
             return View();
         }
 
+        public IActionResult Products()
+        {
+            return View();
+        }
+
+        public IActionResult Gallery()
+        {
+            return View();
+        }
+        public IActionResult About()
+        {
+            return View();
+        }
         public IActionResult Privacy()
+        {
+            return View();
+        }
+        public IActionResult Services()
         {
             return View();
         }

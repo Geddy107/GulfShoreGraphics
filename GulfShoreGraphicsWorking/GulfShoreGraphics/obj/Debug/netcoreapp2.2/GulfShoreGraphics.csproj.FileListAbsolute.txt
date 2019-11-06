@@ -100,3 +100,7 @@ C:\Users\Jack\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWor
 C:\Users\Jack\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\GulfShoreGraphics.dll
 C:\Users\Jack\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\GulfShoreGraphics.pdb
 C:\Users\Jack\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\GulfShoreGraphics.csproj.CopyComplete
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\Razor\Views\Home\Products.cshtml.g.cs
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\Razor\Views\Home\Gallery.cshtml.g.cs
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\JohnG\OneDrive\Desktop\gitRepo\2019 Black Fin Vinyl\GulfShoreGraphicsWorking\GulfShoreGraphics\obj\Debug\netcoreapp2.2\Razor\Views\Home\Services.cshtml.g.cs
